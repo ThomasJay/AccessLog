@@ -42,6 +42,5 @@ public class AccessLogFilter extends OncePerRequestFilter {
          filterChain.doFilter(request, response);
      }
 
-
     }
 }

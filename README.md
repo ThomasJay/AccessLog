@@ -20,6 +20,8 @@ In the doFilterInternal method of the Filter, the request.getRequestURI() method
 
 ## Sample Log Output
 
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+
 ![Log Output](https://raw.githubusercontent.com/ThomasJay/AccessLog/main/images/log_sample.png)
 
 ## Filter Code
